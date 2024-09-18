@@ -1,0 +1,1 @@
+http://backend.course?name="Панчишин Володимир"&github_name=VivaFranko&group="ФЕІ-26с"&subgroup="Підгрупа 1"
